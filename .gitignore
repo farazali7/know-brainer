@@ -1,0 +1,8 @@
+download_dataset.zip
+venv/
+*.h5
+*.fth
+**/sample_dicoms
+stage_1_train.csv
+stage_2_train.csv
+stage_1_sample_submission.csv
